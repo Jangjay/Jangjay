@@ -1,6 +1,6 @@
 <div align="center">
 
-## Biomedical Engineer 
+## Medical AI Researcher & Bioinstrumentation Engineer 
 
 <p>
   <a href="https://www.linkedin.com/in/jjaysohn/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
@@ -82,7 +82,7 @@ Over the past years, I've been deepening my knowledge in Biomedical Engineering 
 - **Ph.D. in Bioengineering** — Seoul National University (SNU)
 - **M.S. in Bioengineering** — Seoul National University 
 - **B.S. in Biomedical Engineering** — Yonsei University, Wonju
-- **Awards:** 1st Prize at Korea Clinical Datathon (2018) · 4th Prize at SNUH Medical AI Challenge (2022)[cite: 1]
+- **Awards:** 1st Prize at Korea Clinical Datathon (2018) · 4th Prize at SNUH Medical AI Challenge (2022)
 
 ---
 
