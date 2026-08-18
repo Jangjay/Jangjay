@@ -50,10 +50,12 @@ const jangjay_sohn = {
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,github,vscode" />
 </p>
 
-**Programming Languages:** C · C++ · Python · MATLAB · R
-**Deep Learning Tools:** Tensorflow 2.0 · Pytorch
-**Circuit Design & Hardware:** OrCAD · PADS · Wearable Device Development
-**Biomedical Domains:** ECG · EEG · PPG · SCG · Echocardiogram
+### Tech Stack & Hardware
+
+**Programming Languages:** C · C++ · Python · MATLAB · R<br>
+**Deep Learning Tools:** Tensorflow 2.0 · Pytorch<br>
+**Circuit Design & Embedded:** OrCAD · PADS · KiCad · Microcontrollers (ESP32, STM32)<br>
+**Biomedical Domains:** ECG · EEG (Sleep & In-ear) · sEMG · PPG · SCG · Echocardiogram<br>
 
 ---
 
@@ -67,14 +69,6 @@ Over the past years, I've been deepening my knowledge in Biomedical Engineering 
 
 **Tools & Concepts:** Deep Neural Networks · Biomedical Signal Processing · Brain-Computer Interface (BCI) · Medical Imaging · Wearable Sensors · Clinical Decision Support Systems
 
----
-
-### Tech Stack & Hardware
-
-**Programming Languages:** C · C++ · Python · MATLAB · R
-**Deep Learning Tools:** Tensorflow 2.0 · Pytorch
-**Circuit Design & Embedded:** OrCAD · PADS · KiCad · Microcontrollers (ESP32, STM32)
-**Biomedical Domains:** ECG · EEG (Sleep & In-ear) · sEMG · PPG · SCG · Echocardiogram
 ---
 
 ### Education & Awards
