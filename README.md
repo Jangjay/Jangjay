@@ -57,15 +57,24 @@ const jangjay_sohn = {
 
 ---
 
-Over the past years, I've been deepening my knowledge in Biomedical Engineering and Medical AI:
+Over the past years, I've been deepening my knowledge in Biomedical Engineering and Medical AI, establishing a solid academic presence with multiple **SCI-indexed publications** and highly cited research:
 
-- Development of **noninvasive cardiovascular monitoring devices**, including 3-lead patch-type ECG systems
-- **Biomedical signal processing** for physiological monitoring and noise cancellation using Auto-encoders
-- **Machine learning** for time-series modeling, such as reconstructing 12-lead ECG using LSTM networks
-- **Medical imaging analysis** for echocardiograms using CNN, U-Net, and Grad-CAM
+- Development of **noninvasive monitoring devices**, including 3-lead patch-type ECG systems and wearable in-the-ear EEG devices.
+- **Biomedical signal processing (ECG, EEG, sEMG, SCG)**, encompassing sleep EEG analysis, motion sickness detection, and physiological noise cancellation using Auto-encoders.
+- **Brain-Computer Interface (BCI)**, focusing on SSVEP-based communication systems and optimal visual stimulation techniques.
+- **Machine learning for time-series modeling**, such as reconstructing 12-lead ECG using LSTM networks, and end-to-end signal generation pipelines.
+- **Medical imaging & clinical predictions**, including echocardiogram analysis using CNN/U-Net and ML-based rehabilitation prognosis prediction for ischemic stroke patients.
 
-**Tools & Concepts:** Deep Neural Networks · Signal Processing · Medical Imaging · Wearable Sensors · Clinical Decision Support Systems
+**Tools & Concepts:** Deep Neural Networks · Biomedical Signal Processing · Brain-Computer Interface (BCI) · Medical Imaging · Wearable Sensors · Clinical Decision Support Systems
 
+---
+
+### Tech Stack & Hardware
+
+**Programming Languages:** C · C++ · Python · MATLAB · R
+**Deep Learning Tools:** Tensorflow 2.0 · Pytorch
+**Circuit Design & Embedded:** OrCAD · PADS · KiCad · Microcontrollers (ESP32, STM32)
+**Biomedical Domains:** ECG · EEG (Sleep & In-ear) · sEMG · PPG · SCG · Echocardiogram
 ---
 
 ### Education & Awards
