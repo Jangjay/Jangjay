@@ -13,36 +13,31 @@
 Hello! I am Jang-jay Sohn, Ph.D., currently working as a Research Assistant Professor in the Department Major in Biomedical Engineering, College of Engineering. I have extensive research experience in developing noninvasive cardiovascular monitoring systems using wearable devices and processing biomedical signals such as ECG and EEG. Furthermore, I am highly passionate about applying deep learning for time-series data analysis, analyzing medical imaging like echocardiograms, and designing hardware circuits.
 
 ---
-
-```python 
-jangjay_sohn = {
-    "name": "Jang-jay Sohn, Ph.D", #
-    "role": ["Research Assistant Professor", "Medical AI Researcher", "Hardware Developer"], #
-    "education": {
-        "phd": "Interdisciplinary Program of Bioengineering, Seoul National University", #
-        "ms": "M.S. in Bioengineering, Seoul National University", #
-        "bs": "B.S. in Biomedical Engineering, Yonsei University" #
-    },
-    "currently": "Research Assistant Professor at the Department Major in Biomedical Engineering, College of Engineering",
+```javascript
+const jangjay_sohn = {
+    name: "Jang-jay Sohn, Ph.D",
+    role: [Research Assistant Professor, Medical AI Researcher, Hardware Developer],
+    currently: "Research Assistant Professor at the Department Major in Biomedical Engineering, College of Engineering",
     
-    "research_interests": [
-        "Noninvasive cardiovascular monitoring device development", #
-        "Biomedical signal processing (ECG, EEG, etc.)", #
-        "Machine learning for time-series modeling", #
-        "Medical imaging analysis for echocardiograms" #
+    research_interests: [
+        "Noninvasive cardiovascular monitoring device development",
+        "Biomedical signal processing (ECG, EEG, etc.)",
+        "Machine learning for time-series modeling",
+        "Medical imaging analysis for echocardiograms"
     ],
     
-    "tech_stack": {
-        "deep_learning": ["Tensorflow 2.0", "Pytorch"], #
-        "programming": ["C", "C++", "Python", "MATLAB", "R"], #
-        "circuit_design": ["OrCAD", "PADS"] #
+    tech_stack: {
+        "deep_learning": ["Tensorflow", "Pytorch"],
+        "programming": ["C", "C++", "Python", "MATLAB", "R"],
+        "circuit_design": ["OrCAD", "PADS"]
     },
     
-    "awards": [
-        "1st Prize at Korea Clinical Datathon (2018)", #
-        "4th Prize at SNUH Medical AI Challenge (2022)" #
+    awards: [
+        "1st Prize at Korea Clinical Datathon (2018)",
+        "4th Prize at SNUH Medical AI Challenge (2022)"
     ]
 }
+
 ```
 
 ---
