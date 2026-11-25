@@ -74,8 +74,8 @@ Over the past years, I've been deepening my knowledge in Biomedical Engineering 
 ### Education & Awards
 
 <p>
-  <img src="https://img.shields.io/badge/-Seoul%20National%20University-%230F0F8C.svg?style=flat-square" />
   <img src="https://img.shields.io/badge/-Yonsei%20University, Wonju-%231A3668.svg?style=flat-square" />
+  <img src="https://img.shields.io/badge/-Seoul%20National%20University-%230F0F8C.svg?style=flat-square" />
   <img src="https://img.shields.io/badge/-Ph.D.%20in%20Bioengineering-%23525252.svg?style=flat-square" />
 </p>
 
